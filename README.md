@@ -33,8 +33,6 @@
 
 **Web Development:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Platforms:**  
@@ -97,8 +95,8 @@
 ---
 
 ### 📚 **Workshops & Trainings**
-✅ 6-Day Cisco Computer Network Training – SISTec-GN (2025)  
-✅ 11-Day Deep Learning Training – SISTec-GN (2025)  
+✅ 11-Day Deep Learning Training – SISTec-GN (2025) 
+✅ Engaged in web development boot camps for responsive web design by DevTown (2024)
 ✅ 10-Day Python Training Module – SISTec-GN (2023)  
 ✅ 10-Day HTML, CSS, JavaScript Bootcamp – SISTec-GN (2023)  
 ✅ 11-Day C Programming Training – SISTec-GN (2022)  
